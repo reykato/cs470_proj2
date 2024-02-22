@@ -1,3 +1,13 @@
+/*
+ * File: Program.java
+ * File Created: Tuesday, 6th February 2024 10:00:12 pm
+ * Last Modified: Wednesday, 21st February 2024 7:04:23 pm
+ * Author: Tyler Lindsay (tylerl@psu.edu)
+ * -----
+ * Class: CMPSC 470
+ * Instructor: Dr. Hyuntae Na
+ */
+
 public class Program {
     public static void main(String[] args) throws Exception
     {

@@ -1,3 +1,13 @@
+/*
+ * File: SymbolTable.java
+ * File Created: Monday, 19th February 2024 10:26:35 am
+ * Last Modified: Wednesday, 21st February 2024 7:04:34 pm
+ * Author: Tyler Lindsay (tylerl@psu.edu)
+ * -----
+ * Class: CMPSC 470
+ * Instructor: Dr. Hyuntae Na
+ */
+
 import java.util.HashMap;
 import java.util.ArrayList;
 

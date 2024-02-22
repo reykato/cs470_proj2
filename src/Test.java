@@ -1,6 +1,5 @@
 import java.io.*;
 
-
 public class Test {
     private static final int NUMBER_OF_TESTS = 6;
     public static void main(String[] args) throws Exception {

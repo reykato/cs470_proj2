@@ -1,10 +1,21 @@
+/*
+ * File: Parser.java
+ * File Created: Tuesday, 6th February 2024 9:59:22 pm
+ * Last Modified: Wednesday, 21st February 2024 7:02:20 pm
+ * Author: Tyler Lindsay (tylerl@psu.edu)
+ * -----
+ * Class: CMPSC 470
+ * Instructor: Dr. Hyuntae Na
+ */
+
+
 public class Parser
 {
     public static final int INT         = 1; // "int"
     public static final int LPAREN      = 2; // "("
     public static final int RPAREN      = 3; // ")"
-    public static final int LBRACKET      = 4; // "["
-    public static final int RBRACKET      = 5; // "]"
+    public static final int LBRACKET    = 4; // "["
+    public static final int RBRACKET    = 5; // "]"
     public static final int SEMI        = 6; // ";"
     public static final int OP          = 7; // "+", "-", "*", "/", "and", "or", "not"
     public static final int RELOP       = 8; // "=", "!=", "<", ">", "<=", ">="
@@ -31,7 +42,7 @@ public class Parser
     public static final int ADDR        = 31;
     public static final int VALUE       = 32;
     public static final int COMMA       = 33;
-    public static final int DOT      = 34;
+    public static final int DOT         = 34;
     public static final int TYPEOF      = 35;
     public static final int ASSIGN      = 36;
     public static final int FLOAT_VALUE = 37;

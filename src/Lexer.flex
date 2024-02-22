@@ -1,3 +1,14 @@
+/*
+ * File: Lexer.flex
+ * File Created: Tuesday, 6th February 2024 9:55:54 pm
+ * Last Modified: Wednesday, 21st February 2024 7:03:34 pm
+ * Author: Tyler Lindsay (tylerl@psu.edu)
+ * -----
+ * Class: CMPSC 470
+ * Instructor: Dr. Hyuntae Na
+ */
+
+
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * Copyright (C) 2000 Gerwin Klein <lsf@jflex.de>                          *
  * All rights reserved.                                                    *
